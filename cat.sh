@@ -1,3 +1,5 @@
+#!/bin/sh
+
 api_key=your_api_here
 
 echo "Getting you a random cat..."

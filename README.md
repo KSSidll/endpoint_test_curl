@@ -8,3 +8,7 @@ It was chosen because of how easy it is to get api key for it, and because i nee
 The point of the exercise was to hit `GET`, `POST`, `PUT` and `DELETE` endpoints, but the chosen API doesn't seem to accept `PUT` requests, and as such, it was decided to hit `GET` twice, `POST` twice and `DELETE` twice instead
 
 In addition to that, there is a [secondary target](goals_api.sh) where we hit a local endpoint instead
+
+That secondary target is exposed by [Goals API](https://github.com/Lukasz-Stachnik-UE-Katowice/SON-S1-Goals-API) project
+
+On that endpoint, we hit `GET` twice, `POST` once, `PUT` once and `DELETE` once
